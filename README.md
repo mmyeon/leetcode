@@ -15,3 +15,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
+# Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
