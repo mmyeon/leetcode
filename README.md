@@ -20,7 +20,12 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
 # Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
+# Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
