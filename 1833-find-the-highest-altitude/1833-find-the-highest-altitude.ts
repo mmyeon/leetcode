@@ -1,11 +1,11 @@
 function largestAltitude(gain: number[]): number {
-    let altitudes = [0]
+    let largest = 0;
     let altitudesSum = 0;
 
     for (let i = 0; i < gain.length; i++) {
         altitudesSum += gain[i]
-        altitudes.push(altitudesSum)
+        largest = Math.max(altitudesSum, largest)
     }
 
-    return Math.max(...altitudes)
+    return largest;
 };
