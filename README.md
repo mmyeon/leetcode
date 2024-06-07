@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
 # Greedy
@@ -28,4 +29,5 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
