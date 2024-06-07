@@ -31,3 +31,11 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
+# Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mmyeon/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mmyeon/leetcode/tree/master/0374-guess-number-higher-or-lower) |
