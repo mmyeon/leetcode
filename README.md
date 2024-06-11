@@ -41,3 +41,11 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/mmyeon/leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mmyeon/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+# Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mmyeon/leetcode/tree/master/0155-min-stack) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mmyeon/leetcode/tree/master/0155-min-stack) |
