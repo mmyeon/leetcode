@@ -1,25 +1,31 @@
 class MinStack {
-    minStack: number[];
+    private stack: number[];
+    private minStack: number[];
 
     constructor() {
+        this.stack = [];
         this.minStack = [];
     }
 
     push(val: number): void {
-        this.minStack = [...this.minStack, val]
+        this.stack.push(val);
+        if (this.minStack.length === 0 || val <= this.minStack[this.minStack.length - 1])
+            this.minStack.push(val)
     }
 
     pop(): void {
-        // 배열에서 마지막 요소 제외하기 
-        this.minStack = [...this.minStack.slice(0, this.minStack.length - 1)]
+        const poppedValue = this.stack.pop();
+        // 제거하는 값이 minStack의 마지막 값과 동일한 경우에 똑같이 값 제거해주기 
+        if(poppedValue === this.minStack[this.minStack.length-1])
+        this.minStack.pop();
     }
 
     top(): number {
-        return this.minStack[this.minStack.length - 1]
+        return this.stack[this.stack.length - 1]
     }
 
     getMin(): number {
-        return Math.min(...this.minStack)
+        return this.minStack[this.minStack.length - 1]
     }
 }
 
