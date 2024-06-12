@@ -10,6 +10,7 @@
 # String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
 # Dynamic Programming
 |  |
@@ -49,3 +50,15 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mmyeon/leetcode/tree/master/0155-min-stack) |
+# Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+# Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+# Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
