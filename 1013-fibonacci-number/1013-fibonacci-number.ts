@@ -1,5 +1,14 @@
 function fib(n: number): number {
-    if (n < 2) return n
+    const memo: Record<number, number> = {};
 
-    return fib(n - 1) + fib(n - 2)
+    function fibInner(n: number): number {
+        if (n < 2) return n;
+        if (memo[n]) return memo[n];
+
+        memo[n] = fibInner(n - 1) + fibInner(n - 2);
+
+        return memo[n]
+    }
+
+    return fibInner(n)
 };
