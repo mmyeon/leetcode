@@ -15,6 +15,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/mmyeon/leetcode/tree/master/1013-fibonacci-number) |
 # Array
@@ -66,6 +67,7 @@
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mmyeon/leetcode/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -74,4 +76,5 @@
 # Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mmyeon/leetcode/tree/master/1013-fibonacci-number) |
