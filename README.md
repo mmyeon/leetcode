@@ -12,6 +12,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
+| [0482-license-key-formatting](https://github.com/mmyeon/leetcode/tree/master/0482-license-key-formatting) |
 # Dynamic Programming
 |  |
 | ------- |
