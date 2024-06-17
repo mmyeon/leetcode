@@ -26,6 +26,7 @@
 | [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
 # Greedy
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
 # Queue
 |  |
 | ------- |
@@ -79,3 +81,11 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mmyeon/leetcode/tree/master/1013-fibonacci-number) |
+# Sorting
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
+# Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
