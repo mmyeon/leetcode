@@ -6,6 +6,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
 # String
 |  |
@@ -22,6 +23,7 @@
 # Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mmyeon/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/mmyeon/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 # Interactive
 |  |
@@ -57,6 +60,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
 # Queue
@@ -84,6 +88,7 @@
 # Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
 # Ordered Set
 |  |
