@@ -28,6 +28,7 @@
 | [0455-assign-cookies](https://github.com/mmyeon/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
+| [0890-lemonade-change](https://github.com/mmyeon/leetcode/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mmyeon/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/mmyeon/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/mmyeon/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/mmyeon/leetcode/tree/master/0890-lemonade-change) |
 # Prefix Sum
 |  |
 | ------- |
