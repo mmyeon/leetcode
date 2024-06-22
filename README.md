@@ -26,6 +26,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mmyeon/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/mmyeon/leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/mmyeon/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/mmyeon/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/mmyeon/leetcode/tree/master/0724-find-pivot-index) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mmyeon/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/mmyeon/leetcode/tree/master/0506-relative-ranks) |
 | [2447-merge-similar-items](https://github.com/mmyeon/leetcode/tree/master/2447-merge-similar-items) |
 # Ordered Set
 |  |
@@ -106,3 +108,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/mmyeon/leetcode/tree/master/0682-baseball-game) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/mmyeon/leetcode/tree/master/0506-relative-ranks) |
