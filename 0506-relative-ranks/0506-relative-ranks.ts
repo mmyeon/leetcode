@@ -1,14 +1,17 @@
+function getRank(rank: number): string {
+    if (rank === 0) return "Gold Medal";
+    if (rank === 1) return "Silver Medal";
+    if (rank === 2) return "Bronze Medal";
+
+    return String(rank + 1)
+}
+
 function findRelativeRanks(score: number[]): string[] {
-    let rankResult = [];
-    let sortedScore = [...score].sort((a, b) => b - a);
+    let sortedScore = score.slice().sort((a, b) => b - a);
+    let map: Record<string, number> = {};
 
-    for (let i = 0; i < score.length; i++) {
-        if (score[i] === sortedScore[0]) rankResult.push("Gold Medal");
-        else if (score[i] === sortedScore[1]) rankResult.push("Silver Medal");
-        else if (score[i] === sortedScore[2]) rankResult.push("Bronze Medal");
+    sortedScore.forEach((score, index) => map[score] = index
+    )
 
-        else rankResult.push(String((sortedScore.findIndex(number => number === score[i])) + 1));
-    }
-
-    return rankResult;
+    return score.map((score) => getRank(map[score]));
 };
