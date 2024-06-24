@@ -118,3 +118,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mmyeon/leetcode/tree/master/0219-contains-duplicate-ii) |
+# Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mmyeon/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
