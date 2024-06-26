@@ -6,6 +6,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/mmyeon/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mmyeon/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/mmyeon/leetcode/tree/master/0455-assign-cookies) |
@@ -70,6 +71,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/mmyeon/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/mmyeon/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mmyeon/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/mmyeon/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,4 +125,5 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mmyeon/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mmyeon/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/mmyeon/leetcode/tree/master/0908-middle-of-the-linked-list) |
