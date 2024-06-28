@@ -11,13 +11,13 @@
  */
 
 function getDecimalValue(head: ListNode | null): number {
-    let valueSum = ""
+    let num = 0;
     let current = head;
 
     while (current) {
-        valueSum += String(current.val);
-        current = current.next
+        num = (num << 1) | current.val;
+        current = current.next;
     }
 
-    return parseInt(valueSum, 2)
+    return num
 };
