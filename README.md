@@ -133,3 +133,14 @@
 | [0234-palindrome-linked-list](https://github.com/mmyeon/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/mmyeon/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mmyeon/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
+<!---LeetCode Topics End-->
