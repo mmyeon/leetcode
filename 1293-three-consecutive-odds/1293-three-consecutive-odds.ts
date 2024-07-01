@@ -1,20 +1,13 @@
-function threeConsecutiveOdds(arr: number[]): boolean {
-    let consecutiveOddCount = 0
+const isOdd = (num: number): boolean => {
+    return num % 2 === 1
+}
 
-    if (arr.length <= 2) return false;
+function threeConsecutiveOdds(arr: number[]): boolean {
+    if (arr.length < 3) return false;
 
     for (let i = 0; i < arr.length; i++) {
-        if (arr[i] % 2 !== 0) {
-            consecutiveOddCount++;
-        } else {
-            consecutiveOddCount = 0;
-        }
-
-        if (consecutiveOddCount === 3) return true;
-
-
+        if (isOdd(arr[i]) && isOdd(arr[i + 1]) && isOdd(arr[i + 2])) return true;
     }
 
     return false;
-
 };
