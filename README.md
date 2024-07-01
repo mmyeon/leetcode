@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
+| [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Sorting
 |  |
 | ------- |
