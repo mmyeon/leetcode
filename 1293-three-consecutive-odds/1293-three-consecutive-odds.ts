@@ -5,7 +5,7 @@ const isOdd = (num: number): boolean => {
 function threeConsecutiveOdds(arr: number[]): boolean {
     if (arr.length < 3) return false;
 
-    for (let i = 0; i < arr.length; i++) {
+    for (let i = 0; i < arr.length - 2; i++) {
         if (isOdd(arr[i]) && isOdd(arr[i + 1]) && isOdd(arr[i + 2])) return true;
     }
 
