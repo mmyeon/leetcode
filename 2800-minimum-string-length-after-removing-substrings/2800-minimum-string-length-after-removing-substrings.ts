@@ -1,17 +1,13 @@
 function minLength(s: string): number {
-    let i = 0;
+    let stack: string[] = [];
 
-    if (s.length < 2) return s.length;
+    for (let i = 0; i < s.length; i++) {
+        let currentWord = stack[stack.length - 1] + s[i]
 
-
-    while (i < s.length - 1) {
-        const targetString = s[i] + s[i + 1]
-
-        if (targetString === "AB" || targetString === "CD") {
-            s = s.split(targetString).join("");
-            i = i > 0 ? i - 1 : i
-        } else i++;
+        if (currentWord !== "AB" && currentWord !== "CD") {
+            stack.push(s[i])
+        } else stack.pop()
     }
 
-    return s.length;
+    return stack.length;
 };
