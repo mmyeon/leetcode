@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 ## Sorting
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mmyeon/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mmyeon/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mmyeon/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
