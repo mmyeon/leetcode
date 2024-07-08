@@ -13,19 +13,21 @@
  */
 
 function inorderTraversal(root: TreeNode | null): number[] {
-    let values = [];
+    let values : number[] = [];
+    let stack: TreeNode[] = [];
+    let current = root; 
 
-    const traverse = (root: TreeNode | null) => {
-        if (root === null) return;
 
-        traverse(root.left)
+    while (current || stack.length){
+        while(current) {
+            stack.push(current);
+            current = current.left;
+        }
 
-        values.push(root.val)
-
-        traverse(root.right)
+        current = stack.pop();
+        values.push(current.val);
+        current = current.right;
     }
-
-    traverse(root)
 
     return values;
 }
