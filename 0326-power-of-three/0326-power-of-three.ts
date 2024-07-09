@@ -6,7 +6,7 @@ function isPowerOfThree(n: number): boolean {
     const checkPowerOfThree = (n: number) => {
         if (n === 1) { isPowerOfThree = true } else {
 
-            if (n % 3 !== 0) {
+            if (n % 3 > 0) {
                 isPowerOfThree = false;
                 return;
             } else {
