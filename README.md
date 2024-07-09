@@ -193,4 +193,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
