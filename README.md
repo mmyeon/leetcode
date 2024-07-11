@@ -166,6 +166,7 @@
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mmyeon/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mmyeon/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -176,6 +177,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
