@@ -1,21 +1,18 @@
 function numUniqueEmails(emails: string[]): number {
     let unique: Record<string, Set<string>> = {}
-    let emailNumber = 0;
+    // let emailNumber = 0;
 
-    for (let i = 0; i < emails.length; i++) {
-        const arr = emails[i].split("@");
-        const localName = arr[0].split("+")[0].split(".").join("")
-        const domain = arr[1]
+    for (const email of emails) {
+        const [localName, domain] = email.split("@");
+        const processedLocalName = localName.split("+")[0].split(".").join("")
 
         if (!unique[domain]) {
-            unique[domain] = new Set([localName])
+            unique[domain] = new Set([processedLocalName])
         } else {
-            unique[domain].add(localName)
+            unique[domain].add(processedLocalName)
         }
 
     }
 
-    Object.values(unique).map(item => emailNumber += item.size)
-
-    return emailNumber
+    return Object.values(unique).reduce((sum, set) => sum + set.size, 0)
 };
