@@ -1,10 +1,15 @@
 function findDisappearedNumbers(nums: number[]): number[] {
-    let disappearedNumbers: number[] = [];
-    const set = new Set(nums.sort())
+    let hash = {};
 
     for (let i = 1; i <= nums.length; i++) {
-        if (!set.has(i)) { disappearedNumbers.push(i) }
+        hash[i] = false;
     }
 
-    return disappearedNumbers
+    for (const num of nums) {
+        hash[num] = true;
+    }
+    
+    return Object.entries(hash)
+        .filter(([key, value]) => !value)
+        .map(([key, value]) => Number(key))
 };
