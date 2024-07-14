@@ -1,10 +1,17 @@
 function findDisappearedNumbers(nums: number[]): number[] {
-    let disappearedNumbers: number[] = [];
-    const set = new Set(nums)
+    let result = [];
 
-    for (let i = 1; i <= nums.length; i++) {
-        if (!set.has(i)) { disappearedNumbers.push(i) }
+    for (let i = 0; i < nums.length; i++) {
+        const index = Math.abs(nums[i]) - 1;
+
+        if (nums[index] > 0) {
+            nums[index] = -nums[index]
+        }
     }
 
-    return disappearedNumbers
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] > 0) result.push(i + 1)
+    }
+
+    return result
 };
