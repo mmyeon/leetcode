@@ -142,6 +142,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
+| [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 ## Sorting
@@ -184,6 +185,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
+| [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
