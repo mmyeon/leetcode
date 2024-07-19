@@ -1,6 +1,6 @@
 function distributeCandies(candyType: number[]): number {
-    const candyTypeSet = new Set(candyType)
+    const candyTypeSet = new Set(candyType).size
     const edibleCandyNum = candyType.length / 2
 
-    return edibleCandyNum >= candyTypeSet.size ? candyTypeSet.size : edibleCandyNum
+    return Math.min(candyTypeSet, edibleCandyNum)
 };
