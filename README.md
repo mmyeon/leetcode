@@ -173,6 +173,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/mmyeon/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mmyeon/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -189,6 +190,7 @@
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/mmyeon/leetcode/tree/master/0575-distribute-candies) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/mmyeon/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 ## Monotonic Stack
