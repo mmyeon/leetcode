@@ -198,6 +198,7 @@
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/mmyeon/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
+| [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
 | ------- |
