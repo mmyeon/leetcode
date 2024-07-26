@@ -209,18 +209,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Math
 |  |
 | ------- |
