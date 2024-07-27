@@ -210,6 +210,7 @@
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2384-root-equals-sum-of-children](https://github.com/mmyeon/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [2384-root-equals-sum-of-children](https://github.com/mmyeon/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Math
 |  |
 | ------- |
