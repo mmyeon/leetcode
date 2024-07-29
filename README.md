@@ -145,6 +145,7 @@
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
+| [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
+| [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -256,4 +258,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
