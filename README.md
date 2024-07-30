@@ -148,6 +148,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mmyeon/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
 ## Sorting
 |  |
@@ -155,6 +156,7 @@
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mmyeon/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [1039-find-the-town-judge](https://github.com/mmyeon/leetcode/tree/master/1039-find-the-town-judge) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/mmyeon/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mmyeon/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
