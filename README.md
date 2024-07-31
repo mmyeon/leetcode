@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -227,6 +229,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -265,4 +268,8 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
