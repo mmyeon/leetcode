@@ -142,6 +142,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/mmyeon/leetcode/tree/master/0575-distribute-candies) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mmyeon/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
@@ -254,6 +255,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/mmyeon/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 ## Enumeration
 |  |
