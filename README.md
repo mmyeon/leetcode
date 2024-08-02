@@ -143,6 +143,7 @@
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/mmyeon/leetcode/tree/master/0575-distribute-candies) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/mmyeon/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
@@ -274,4 +275,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
