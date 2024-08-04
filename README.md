@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
+| [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
 ## Recursion
 |  |
@@ -279,4 +280,13 @@
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
