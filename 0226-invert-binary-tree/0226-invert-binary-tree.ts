@@ -17,7 +17,7 @@ function invertTree(root: TreeNode | null): TreeNode | null {
     if(!root) return root;
 
     // 자식 노드가 둘 다 있는 경우 교체 
-    let temp = root.left
+    const temp = root.left
     root.left = root.right
     root.right = temp
 
