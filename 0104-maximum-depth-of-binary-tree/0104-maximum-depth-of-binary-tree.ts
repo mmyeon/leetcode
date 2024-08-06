@@ -15,10 +15,20 @@
 
 
 function maxDepth(root: TreeNode | null): number {
-    if(!root) return 0;
+    if (!root) return 0;
 
-    const leftDepth = maxDepth(root.left);
-    const rightDepth = maxDepth(root.right);
+    let maximumDepth = 0;
+    // root 노드 depth 1로 설정 
+    let stack = [{ node: root, depth: 1 }]
 
-    return Math.max(leftDepth, rightDepth) + 1;
+    while (stack.length > 0) {
+        const { node, depth } = stack.pop();
+        // 리턴할 maximumDepth 갱신 
+        maximumDepth = Math.max(maximumDepth, depth)
+
+        if (node.left) stack.push({ node: node.left, depth: depth + 1 })
+        if (node.right) stack.push({ node: node.right, depth: depth + 1 })
+    }
+
+    return maximumDepth
 };
