@@ -219,6 +219,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/mmyeon/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -230,6 +231,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -240,6 +242,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/mmyeon/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2384-root-equals-sum-of-children](https://github.com/mmyeon/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Math
@@ -297,4 +300,12 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
