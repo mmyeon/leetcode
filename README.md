@@ -290,6 +290,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/mmyeon/leetcode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/mmyeon/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
 ## Brainteaser
@@ -308,4 +309,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mmyeon/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/mmyeon/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
