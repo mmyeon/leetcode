@@ -1,10 +1,17 @@
 function reverseBits(n: number): number {
-    let result = 0;
+    let stack = [];
 
-    for(let i = 0; i < 32; i++) {
-        result = (result << 1) | (n & 1)
-        n >>>= 1
+
+    while (stack.length < 32) {
+        stack.push(n % 2);
+        n = Math.floor(n / 2);
     }
 
-    return result >>> 0
+    let result = 0, scale = 1;
+    while (stack.length > 0) {
+        result += stack.pop() * scale;
+        scale *= 2
+    }
+
+    return result
 };
