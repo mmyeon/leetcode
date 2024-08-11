@@ -138,6 +138,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
 | [0924-fair-candy-swap](https://github.com/mmyeon/leetcode/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +181,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mmyeon/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -194,6 +197,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
