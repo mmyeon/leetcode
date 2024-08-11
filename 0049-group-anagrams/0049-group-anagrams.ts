@@ -1,15 +1,26 @@
+const countStr = (str: string): string => {
+    let count = new Array(26).fill(0);
+
+    for (const char of str) {
+        const charIndex = char.charCodeAt(0) - "a".charCodeAt(0);
+        count[charIndex]++;
+    }
+
+    return count.join("-");
+}
+
 function groupAnagrams(strs: string[]): string[][] {
     let dictionary: Record<string, string[]> = {};
 
-    for (let i = 0; i < strs.length; i++) {
-        const sortedWord = strs[i].split("").sort().join()
+    for (const str of strs) {
+    const key = countStr(str)
 
-        if (dictionary[sortedWord]) {
-            dictionary[sortedWord].push(strs[i])
+        if (dictionary[key]) {
+            dictionary[key].push(str)
         } else {
-            dictionary[sortedWord] = [strs[i]]
+            dictionary[key] = [str]
         }
     }
-    
+
     return Object.values(dictionary)
 };
