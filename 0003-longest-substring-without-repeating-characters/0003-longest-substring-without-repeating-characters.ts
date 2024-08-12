@@ -1,20 +1,17 @@
 function lengthOfLongestSubstring(s: string): number {
-    let longestLength = 0;
+    let maxLength = 0, start = 0, end = 0; 
+    let chars = new Set();
 
-    let dictionary: Record<string, number> = {}
-    for (let i = 0; i < s.length; i++) {
-        dictionary[s[i]] = 1
-
-        for (let j = i + 1; j < s.length; j++) {
-            if (!dictionary[s[j]]) {
-                dictionary[s[j]] = 1
-            } else {
-                longestLength = longestLength < Object.values(dictionary).length ? Object.values(dictionary).length : longestLength
-                dictionary = {}
-                break;
-            }
+    while (end < s.length) {
+        if(chars.has(s[end])) {
+            chars.delete(s[start]);
+            start++; 
+        } else {
+            chars.add(s[end]);
+            end++;
+            maxLength = Math.max(end - start, maxLength)
         }
     }
 
-    return longestLength < Object.values(dictionary).length ? Object.values(dictionary).length : longestLength;
+    return maxLength;
 }
