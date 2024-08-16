@@ -17,7 +17,7 @@ function kthSmallest(root: TreeNode | null, k: number): number {
     let result = null; 
 
     const inorderTraversal = (node: TreeNode | null) => {
-        if(!node || result) return;
+        if(!node) return;
 
         inorderTraversal(node.left);
 
