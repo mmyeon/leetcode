@@ -143,6 +143,7 @@
 | [0079-word-search](https://github.com/mmyeon/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mmyeon/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/mmyeon/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mmyeon/leetcode/tree/master/0496-next-greater-element-i) |
@@ -245,6 +246,7 @@
 | [0098-validate-binary-search-tree](https://github.com/mmyeon/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mmyeon/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -298,6 +300,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/mmyeon/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/mmyeon/leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/mmyeon/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Two Pointers
@@ -354,4 +357,9 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mmyeon/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
