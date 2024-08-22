@@ -2,21 +2,28 @@ function numIslands(grid: string[][]): number {
     let count = 0;
     const rows = grid.length;
     const cols = grid[0].length;
+    let visited = new Set<string>();
 
-    const dfs = (x, y) => {
-        if (x < 0 || x >= rows || y < 0 || y >= cols || grid[x][y] === "0") return;
+    const dfs = (row, col) => {
+        if (row < 0 || row >= rows || col < 0 || col >= cols || grid[row][col] === "0") return;
 
-        grid[x][y] = "0";
+        const key = `${row},${col}`
 
-        dfs(x + 1, y)
-        dfs(x - 1, y)
-        dfs(x, y + 1)
-        dfs(x, y - 1)
+        if (visited.has(key)) return;
+
+        visited.add(key)
+
+        dfs(row + 1, col)
+        dfs(row - 1, col)
+        dfs(row, col + 1)
+        dfs(row, col - 1)
     }
+
 
     for (let i = 0; i < rows; i++) {
         for (let j = 0; j < cols; j++) {
-            if (grid[i][j] === "1") {
+            const key = `${i},${j}`
+            if (!visited.has(key) && grid[i][j] === "1") {
                 count++;
                 dfs(i, j);
             }
