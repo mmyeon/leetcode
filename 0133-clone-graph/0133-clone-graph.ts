@@ -14,22 +14,30 @@
 
 
 function cloneGraph(node: _Node | null): _Node | null {
-    let map = new Map();
+    if (!node) return null
 
-    const dfs = (node: _Node | null): _Node | null => {
-        if (!node) return null;
+    const bfs = (node: _Node | null): _Node => {
+        const clone = new Node(node.val);
+        const clones = new Map();
+        clones.set(node, clone)
+        let queue = [node];
 
-        if (map.has(node.val)) return map.get(node.val)
+        while (queue.length > 0) {
+            const targetNode = queue.shift();
 
-        let clonedNode = new Node();
-        clonedNode.val = node.val;
-        map.set(node.val, clonedNode)
+            for (const neighbor of targetNode.neighbors) {
+                if (!clones.has(neighbor)) {
+                    clones.set(neighbor, new Node(neighbor.val))
+                    queue.push(neighbor)
+                }
 
-        for (const neighbor of node.neighbors) {
-            clonedNode.neighbors.push(dfs(neighbor))
+                clones.get(targetNode).neighbors.push(clones.get(neighbor))
+            }
+
         }
-        return clonedNode;
+
+        return clone;
     }
 
-    return dfs(node)
+    return bfs(node);
 };
