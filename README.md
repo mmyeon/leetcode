@@ -142,6 +142,7 @@
 | [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/mmyeon/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mmyeon/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/mmyeon/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
@@ -195,6 +196,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mmyeon/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/mmyeon/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/mmyeon/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/mmyeon/leetcode/tree/master/0647-palindromic-substrings) |
@@ -216,6 +218,7 @@
 | [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/mmyeon/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/mmyeon/leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/mmyeon/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mmyeon/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -332,6 +335,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mmyeon/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mmyeon/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mmyeon/leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/mmyeon/leetcode/tree/master/0322-coin-change) |
@@ -384,4 +388,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mmyeon/leetcode/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
