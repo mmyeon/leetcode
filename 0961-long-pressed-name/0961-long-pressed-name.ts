@@ -1,22 +1,15 @@
 function isLongPressedName(name: string, typed: string): boolean {
-    let currentNameIndex = 0;
-    let typedIndex = 0;
+    let currentNameIndex = 0; 
 
-    if(name.length > typed.length) return false;
+    // typed 문자열이 더 긴 경우
+    // name 문자열이 더 긴 경우
+    for(let i = 0; i < typed.length; i++) {
+        // name과 typed 문자가 같은 경우 
+        if(typed[i] === name[currentNameIndex]) currentNameIndex++;
 
-    while (typedIndex <= typed.length) {
-        // 두 문자가 같은 경우는 동일 문자니까 index 함께 증가
-        if (name[currentNameIndex] === typed[typedIndex]) {
-            typedIndex++;
-            currentNameIndex++;
-        } else {
-            // 이전 문자와 다른 경우는 false 리턴
-            if (typed[typedIndex] !== typed[typedIndex - 1]) { 
-                return false }
-            // 문자는 동일한 경우 typedIndex만 업데이트
-            else typedIndex++;
-        }
+        // name과 typed 문자가 다르고, 이전 문자와 같지 않은 경우 
+        else if (i === 0 || typed[i] !== typed[i-1]) return false; 
     }
 
-    return true;
+    return name.length === currentNameIndex
 };
