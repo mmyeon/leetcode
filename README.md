@@ -202,6 +202,7 @@
 | [0647-palindromic-substrings](https://github.com/mmyeon/leetcode/tree/master/0647-palindromic-substrings) |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mmyeon/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-long-pressed-name](https://github.com/mmyeon/leetcode/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/mmyeon/leetcode/tree/master/0965-unique-email-addresses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/mmyeon/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mmyeon/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/mmyeon/leetcode/tree/master/0647-palindromic-substrings) |
+| [0961-long-pressed-name](https://github.com/mmyeon/leetcode/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/mmyeon/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search Tree
 |  |
