@@ -163,6 +163,7 @@
 | [1293-three-consecutive-odds](https://github.com/mmyeon/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mmyeon/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/mmyeon/leetcode/tree/master/1720-crawler-log-folder) |
+| [2486-most-frequent-even-element](https://github.com/mmyeon/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mmyeon/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
@@ -233,6 +234,7 @@
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/mmyeon/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mmyeon/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2486-most-frequent-even-element](https://github.com/mmyeon/leetcode/tree/master/2486-most-frequent-even-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/mmyeon/leetcode/tree/master/0837-most-common-word) |
+| [2486-most-frequent-even-element](https://github.com/mmyeon/leetcode/tree/master/2486-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
