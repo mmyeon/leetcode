@@ -140,6 +140,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mmyeon/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/mmyeon/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/mmyeon/leetcode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/mmyeon/leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mmyeon/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mmyeon/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/mmyeon/leetcode/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mmyeon/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mmyeon/leetcode/tree/master/0213-house-robber-ii) |
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/mmyeon/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
