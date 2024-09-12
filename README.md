@@ -286,6 +286,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/mmyeon/leetcode/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/mmyeon/leetcode/tree/master/0326-power-of-three) |
 | [1086-divisor-game](https://github.com/mmyeon/leetcode/tree/master/1086-divisor-game) |
 | [1500-count-largest-group](https://github.com/mmyeon/leetcode/tree/master/1500-count-largest-group) |
@@ -342,6 +343,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mmyeon/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/mmyeon/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/mmyeon/leetcode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/mmyeon/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/mmyeon/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mmyeon/leetcode/tree/master/0213-house-robber-ii) |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mmyeon/leetcode/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mmyeon/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
