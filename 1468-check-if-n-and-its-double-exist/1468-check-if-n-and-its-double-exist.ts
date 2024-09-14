@@ -1,6 +1,8 @@
 function checkIfExist(arr: number[]): boolean {
     for (let i = 0; i < arr.length; i++) {
-        if (arr.indexOf(arr[i] * 2) !== -1 && arr.indexOf(arr[i] * 2) !== i) return true;
+        for (let j = 0; j < arr.length; j++) {
+            if (arr[i] === arr[j] * 2 && i !== j) return true;
+        }
     }
 
     return false;
