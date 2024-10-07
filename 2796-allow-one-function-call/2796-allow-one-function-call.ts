@@ -2,13 +2,13 @@ type JSONValue = null | boolean | number | string | JSONValue[] | { [key: string
 type OnceFn = (...args: JSONValue[]) => JSONValue | undefined
 
 function once(fn: Function): OnceFn {
-    let isCalledBefore = false;
+    let isCalled = false;
     
     return function (...args) {
-        if(!isCalledBefore) {
-            isCalledBefore = true; 
-            return fn(...args)
-        } else  return undefined
+        if(isCalled) return; 
+
+        isCalled = true; 
+        return fn(...args)
     };
 }
 
