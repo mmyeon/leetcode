@@ -1,18 +1,16 @@
 type MultiDimensionalArray = (number | MultiDimensionalArray)[];
 
 var flat = function (arr: MultiDimensionalArray, n: number): MultiDimensionalArray {
-    if (n === 0) return arr;
     let result = []
 
-    const flatten = (arr: MultiDimensionalArray, n: number) => {
-        for (let i = 0; i < arr.length; i++) {
-            if (Array.isArray(arr[i])) {
-                result.push(...flat(arr[i] as MultiDimensionalArray, n - 1))
-            } else result.push(arr[i])
+    const recurse = (nestedArr: MultiDimensionalArray, depth: number) => {
+        for (let i = 0; i < nestedArr.length; i++) {
+            if (depth < n && Array.isArray(nestedArr[i])) {
+                recurse(nestedArr[i] as MultiDimensionalArray, depth + 1)
+            } else result.push(nestedArr[i])
         }
     }
-
-    flatten(arr,n)
+    recurse(arr, 0)
 
     return result
 };
