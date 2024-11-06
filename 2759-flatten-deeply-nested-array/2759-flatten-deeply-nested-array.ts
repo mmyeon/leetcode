@@ -4,11 +4,15 @@ var flat = function (arr: MultiDimensionalArray, n: number): MultiDimensionalArr
     if (n === 0) return arr;
     let result = []
 
-    for (let i = 0; i < arr.length; i++) {
-        if (Array.isArray(arr[i])) {
-            result.push(...flat(arr[i] as MultiDimensionalArray, n - 1))
-        } else result.push(arr[i])
+    const flatten = (arr: MultiDimensionalArray, n: number) => {
+        for (let i = 0; i < arr.length; i++) {
+            if (Array.isArray(arr[i])) {
+                result.push(...flat(arr[i] as MultiDimensionalArray, n - 1))
+            } else result.push(arr[i])
+        }
     }
+
+    flatten(arr,n)
 
     return result
 };
